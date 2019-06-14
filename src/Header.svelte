@@ -23,6 +23,6 @@
 </style>
 
 <nav>
-    <img src="img/svelte-logo-horizontal.svg" alt="Svelte Logo">
+    <img src="../public/img/svelte-logo-horizontal.svg" alt="Svelte Logo">
     <div>Showcasing SVELTE.js by Examples</div>
 </nav>
